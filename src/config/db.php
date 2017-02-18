@@ -21,6 +21,6 @@ class DB
 
     public function __construct()
     {
-        echo 'This is call Construct of ' . __CLASS__. ' class';
+
     }
 }
